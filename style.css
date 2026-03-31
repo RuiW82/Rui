@@ -1,0 +1,12 @@
+* style.css */
+body {
+    background-color: #f0f2f5; /* 浅灰色背景 */
+    color: #333;
+    line-height: 1.6;
+    margin: 40px;
+}
+
+h1 {
+    color: #007bff; /* 蓝色标题 */
+    border-bottom: 2px solid #007bff;
+}
